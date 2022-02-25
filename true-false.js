@@ -10,6 +10,7 @@ truthy value
 1. true 
 2. Any number positive or nagative
 3. Any string with white speach
+4.empty array 
 
 */
 const x = false
